@@ -22,6 +22,9 @@ Curtis Mobley (PhD, Sequoia Scientific, Inc.) maintains a digital 'book' of note
 [Radiative Heat Transfer](https://www.sciencedirect.com/book/9780123869449/radiative-heat-transfer#book-info)  
 Professor Michael Modest (UC Merced). In my quest to learn RT, this was the most helpful textbook I found. It is comprehensive and includes coupled thermodynamics / radiative equilibrium (consistent notation!). Although not free/open-source, I think this can be obtained for free on most academic institutional servers.  
 
+[Scattport](https://scattport.org)
+A website dedicated to the quantitative study of light scattering. Lots of great tools and resources are available here.  
+
 ## thermodynamics / heat and mass transfer
 [Thermopedia](http://www.thermopedia.com/navigation/)  
 Like wikipedia, but for thermodynamics. Basically a digital textbook.  
